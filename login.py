@@ -99,7 +99,8 @@ entry_2 = Entry(
     bd=0,
     bg="#EFEFEF",
     fg="#000716",
-    highlightthickness=0
+    highlightthickness=0,
+    show="*"
 )
 entry_2.place(
     x=398.0,
