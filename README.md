@@ -16,9 +16,11 @@ and deleting student details. The system also features a secure login page for a
 # Requirements:
 <b> Make sure you have the following installed: </b>
 
-- Python 3.x <br>
+- [Python 3.x](https://www.python.org/downloads/) <br>
 - Tkinter (usually included with Python installations)
 - SQLite3 (included with Python installations)
 # Database Setup:
 The application uses an SQLite3 database to store student records. The database file will be automatically created when you first run the application.
+# Figma Design:
+The login page design was created using [Figma](https://www.figma.com/). The design assets used in the application can be found in the assets directory.
 
