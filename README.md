@@ -24,3 +24,4 @@ The application uses an SQLite3 database to store student records. The database 
 # Figma Design:
 The login page design was created using [Figma](https://www.figma.com/). The design assets used in the application can be found in the assets directory.
 
+![istockphoto-1294603953-612x612](https://github.com/user-attachments/assets/b0d61aa8-64bd-4388-8b92-c360c7eb3f5f)
